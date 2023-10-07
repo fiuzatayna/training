@@ -67,7 +67,7 @@ Para baixar o material use o comando:
 git clone https://github.com/nextflow-io/training.git
 ```
 
-Em seguida, `cd` no diretório `nf-training`.
+Em seguida, `cd` no diretório `training/nf-training`.
 
 ### Verificando sua instalação
 
